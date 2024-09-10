@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Projetos Back-end em Java: </h2>
 
-  - [Verificador de Senhas](https://github.com/amatoshdev/VerificadorDeSenha)
+  - [Verificador de Senha](https://github.com/amatoshdev/VerificadorDeSenha)
     
   - [Gerador de Senhas Aleatórias (ROT-13)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
   
