@@ -6,7 +6,7 @@
     
   - [Gerador de Senhas Aleatórias (ROT-13)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
   
-  - [Jogo de Advinhação de Números Aleatórios](https://github.com/victoramato/JogoDaAdivinhacao)
+  - [Jogo de Adivinhação de Números Aleatórios](https://github.com/victoramato/JogoDaAdivinhacao)
   
   - [Simulador de Caixa Bancário](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
