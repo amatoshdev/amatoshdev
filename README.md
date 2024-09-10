@@ -8,7 +8,7 @@
   
   - [Jogo de Adivinhação de Números Aleatórios](https://github.com/victoramato/JogoDaAdivinhacao)
   
-  - [Simulador de Caixa Bancário](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Simulador de Conta Bancário](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2> 🤳 Entre em contato comigo: <br> </h2>
 
