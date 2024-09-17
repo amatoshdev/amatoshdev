@@ -4,7 +4,7 @@
 
   - [Verificador de Senhas](https://github.com/amatoshdev/VerificadorDeSenha)
     
-  - [Gerador de Senhas Aleatórias (ROT-13)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Gerador de Senhas Aleatórias (ROT-13)](https://github.com/amatoshdev/GeradorDeSenhasROT-13) <b>
   
   - [Jogo de Adivinhação de Números Aleatórios](https://github.com/victoramato/JogoDaAdivinhacao)
   
