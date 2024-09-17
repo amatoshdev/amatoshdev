@@ -12,9 +12,9 @@
 
 <h2> 🤳 Entre em contato comigo: <br> </h2>
 
-[<img align="left" alt="VictorAmato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VictorAmato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VictorAmato | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="VictorAmato | LinkedIn" width="22px" src="https://imgur.com/Higjpa6.png" />][linkedin]
+[<img align="left" alt="VictorAmato | Instagram" width="22px" src="https://imgur.com/P6htHGR.png" />][instagram]
+[<img align="left" alt="VictorAmato | WhatsApp" width="22px" src="https://imgur.com/urJtjbo.png" />][whatsapp]
 
 [instagram]: https://www.instagram.com/amatosh.dev
 [linkedin]: https://linkedin.com/in/amatosh
