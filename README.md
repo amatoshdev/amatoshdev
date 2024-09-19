@@ -22,4 +22,4 @@
 
 [instagram]: https://www.instagram.com/amatosh.dev
 [linkedin]: https://linkedin.com/in/amatosh
-[whatsapp]: https://wa.me/5512988579087
+[whatsapp]: https://wa.me/5512982946841
