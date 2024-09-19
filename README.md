@@ -10,7 +10,7 @@
   
   - [Simulador de Sistema Bancário](https://github.com/amatoshdev/SimuladorSistemaBancario)
 
-<h2> 👨‍💻 Projetos Frontend </h2>
+<h2> 🎨 Projetos Frontend </h2>
 
   - [Site Institucional: PetLove](https://github.com/amatoshdev/PetLove)
 
