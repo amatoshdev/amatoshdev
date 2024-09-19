@@ -12,7 +12,7 @@
 
 <h2> 🎨 Projetos Frontend </h2>
 
-  - [Site Institucional: PetLove](https://github.com/amatoshdev/PetLove)
+  - [Site Institucional: PetLife](https://github.com/amatoshdev/PetLife)
 
 <h2> 🤳 Entre em contato comigo: <br> </h2>
 
