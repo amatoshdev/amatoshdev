@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem-vindo ao meu repositório! ☕  </h1>
 
-<h2> 👨‍💻 Projetos Back-end em Java: </h2>
+<h2> 👨‍💻 Projetos Backend em Java: </h2>
 
   - [Verificador de Senhas](https://github.com/amatoshdev/VerificadorDeSenha)
     
@@ -9,6 +9,10 @@
   - [Jogo de Adivinhação de Números Aleatórios](https://github.com/victoramato/JogoDaAdivinhacao)
   
   - [Simulador de Sistema Bancário](https://github.com/amatoshdev/SimuladorSistemaBancario)
+
+<h2> 👨‍💻 Projetos Frontend </h2>
+
+  - [Site Institucional: PetLove](https://github.com/amatoshdev/PetLove)
 
 <h2> 🤳 Entre em contato comigo: <br> </h2>
 
